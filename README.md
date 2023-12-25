@@ -64,6 +64,7 @@ npm test // Roda os testes do projeto.
 
 ```
 git log // listar os commits do repositório.
+git log --stat // mostra o historico do repositório.
 git add // sobe alterações para a staging area.
 git commit // realiza novos commits.
 git commit --amend // subsitui o commit anterior por um novo, mas aproveita as alterações dele.
@@ -83,3 +84,5 @@ ex.: git commit -m "Adicionando novas funcionalidades no projeto"
 git push origin master // Faz o push do projeto para o repositório.
 ex.: git push
 ```
+
+##
