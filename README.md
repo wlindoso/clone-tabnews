@@ -68,4 +68,18 @@ git add // sobe alterações para a staging area.
 git commit // realiza novos commits.
 git commit --amend // subsitui o commit anterior por um novo, mas aproveita as alterações dele.
 git diff // calcula a diferença entre as versões/alterações dos arquivos.
+git status // verifica o status do repositório.
+```
+
+## Etapas para realização de um commit
+
+```
+git add . // Adiciona todos os arquivos do projeto.
+ex.: git add .
+git add file_name // Adiciona um arquivo especifico.
+ex.: git add README.md
+git commit -m // Adicionando novas funcionalidades no projeto.
+ex.: git commit -m "Adicionando novas funcionalidades no projeto"
+git push origin master // Faz o push do projeto para o repositório.
+ex.: git push
 ```
